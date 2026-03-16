@@ -1,7 +1,3 @@
-Heimdall es una plataforma de inteligencia OSINT y red que mapea la ruta física de los datos a escala global. 
-Analiza infraestructuras, detecta subdominios y audita la seguridad (DMARC/CVE).
-Transforma datos crudos en un centro de mando visual para identificar riesgos y jurisdicciones legales.
-
 # domaindall
 
 domaindall es una herramienta de análisis de dominios orientada a la investigación OSINT, la evaluación de seguridad y la visibilidad técnica de la infraestructura asociada a un dominio.
